@@ -1,4 +1,4 @@
-# reskomusic.github.com
+#reskomusic.github.com
 #EXTINF: 0 tvg-id = "RTS1.rs" group-title = "Kanali", RTS 1
 http://176.67.211.6:15000/udp/239.1.1.1:22001
 #EXTINF: 0 tvg-id = "RTS2.rs" group-title = "Kanali", RTS 2
